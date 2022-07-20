@@ -5,7 +5,7 @@
 
 软件界面：
 
-<img src="https://github.com/feimos32/PBRT3-DezemingFamily/blob/main/Images/%E8%BD%AF%E4%BB%B6%E7%95%8C%E9%9D%A2-2-1.png" width="500px">
+<img src="https://github.com/feimos32/PBRT3-ProfessionalTheory-DezemingFamily/blob/main/Images/%E8%BD%AF%E4%BB%B6%E7%95%8C%E9%9D%A2-18-1.png" width="500px">
 
 
 
